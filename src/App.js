@@ -19,7 +19,7 @@ function App() {
         </a>
       </header>
       <h1>
-        hello
+        hey yo
       </h1>
     </div>
   );
